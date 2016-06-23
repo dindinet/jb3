@@ -1,0 +1,25 @@
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: dindi@dindi.net
+copyright_name: Your/Project/Corporate Name
+description: "Site description and meta description"
+baseurl: ""
+url: "https://dindinet.github.io/"
+twitter_username: dindi
+github_username:  dindinet
+facebook_username:  dindinet
+email_username:  dindi@dindi.net
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
