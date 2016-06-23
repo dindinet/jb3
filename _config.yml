@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: dindi@dindi.net
 copyright_name: Your/Project/Corporate Name
 description: "Site description and meta description"
-baseurl: "jb3"
-url: "https://dindinet.github.io"
+baseurl: ""
+url: "https://dindinet.github.io/jb3"
 twitter_username: dindi
 github_username:  dindinet
 facebook_username:  dindinet
